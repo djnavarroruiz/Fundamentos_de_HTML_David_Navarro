@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480">
+
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" y="276.5342" x="310.6701" transform="matrix(1.2607 0 0 4.92878 -79.8026 -1103.57)" text-anchor="middle" stroke-width="0" stroke="#191919" fill="#0000ff" style="cursor: move; pointer-events: inherit;" font-size="24" font-family="Fantasy" id="svg_7">Fundamentos de</text>
+  <text xml:space="preserve" y="213.417" x="314.24" transform="matrix(1.32213 0 0 3.6774 -95.8715 -665.619)" text-anchor="middle" stroke-width="0" stroke="#191919" fill="#0000ff" style="cursor: move; pointer-events: inherit;" font-size="24" font-family="Fantasy" id="svg_5">Desarrollo web</text>
+  <text xml:space="preserve" y="269.67" x="71.38" text-anchor="middle" stroke-width="0" stroke="#191919" fill="#000000" font-size="24" font-family="Fantasy" id="svg_6"/>
+  <text xml:space="preserve" y="426.8862" x="289.2634" transform="matrix(2.73184 2.1008e-008 1.10003e-007 4.9093 -469.994 -1695.36)" text-anchor="middle" stroke-width="0" stroke="#191919" fill="#0000ff" style="cursor: move; pointer-events: inherit;" font-size="24" font-family="Fantasy" id="svg_8">HTML</text>
+ </g>
+</svg>
